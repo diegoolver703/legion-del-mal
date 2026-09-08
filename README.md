@@ -9,7 +9,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## Estructura de la organización
 
-## Estructura de la organización
+## Estructura de la organización !!
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
