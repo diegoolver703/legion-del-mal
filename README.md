@@ -9,7 +9,11 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## Estructura de la organización
 
+<<<<<<< HEAD
 ## Estructura de la organización !!
+=======
+## Estructura de la organización
+>>>>>>> a00e11c (Docs: actualizar redmi no)
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
